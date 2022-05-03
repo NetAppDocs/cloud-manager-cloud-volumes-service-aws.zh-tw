@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+    
+    
+  
+
+  
+  
+    <url>
+      <loc>https://docs.netapp.com/zh-tw/cloud-manager-cloud-volumes-service-aws/concept-cvs-aws.html</loc>
+      
+      <lastmod>2022-05-03T05:57:30+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/zh-tw/cloud-manager-cloud-volumes-service-aws/</loc>
+      
+      <lastmod>2022-05-03T05:57:30+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/zh-tw/cloud-manager-cloud-volumes-service-aws/legal-notices.html</loc>
+      
+      <lastmod>2022-05-03T05:57:30+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/zh-tw/cloud-manager-cloud-volumes-service-aws/reference-cvs-service-levels-and-quotas.html</loc>
+      
+      <lastmod>2022-05-03T05:57:30+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/zh-tw/cloud-manager-cloud-volumes-service-aws/reference-security-groups-windows-ad-servers.html</loc>
+      
+      <lastmod>2022-05-03T05:57:30+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/zh-tw/cloud-manager-cloud-volumes-service-aws//search.html</loc>
+      
+      <lastmod>2022-05-03T05:57:45+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/zh-tw/cloud-manager-cloud-volumes-service-aws/task-get-help.html</loc>
+      
+      <lastmod>2022-05-03T05:57:30+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/zh-tw/cloud-manager-cloud-volumes-service-aws/task-manage-cloud-volumes-snapshots.html</loc>
+      
+      <lastmod>2022-05-03T05:57:30+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/zh-tw/cloud-manager-cloud-volumes-service-aws/task-manage-cvs-aws.html</loc>
+      
+      <lastmod>2022-05-03T05:57:30+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/zh-tw/cloud-manager-cloud-volumes-service-aws/task-support-registration.html</loc>
+      
+      <lastmod>2022-05-03T05:57:30+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/zh-tw/cloud-manager-cloud-volumes-service-aws/whats-new.html</loc>
+      
+      <lastmod>2022-05-03T05:57:30+00:00</lastmod>
+      
+    </url>
+  
+
+  
+  
+</urlset>
