@@ -1,0 +1,16 @@
+---
+layout: astra 
+sidebar: sidebar 
+permalink: index.html 
+lead: NetApp Cloud Volumes Service for AWS is a cloud-native file service that provides NAS volumes over NFS and SMB with all-flash performance. This documentation describes how to manage Cloud Volumes Service for AWS by using NetApp Cloud Manager. 
+summary: NetApp Cloud Volumes Service for AWS是雲端原生檔案服務、可透過NFS和SMB提供NAS磁碟區的All Flash效能。本文件說明如何Cloud Volumes Service 使用NetApp Cloud Manager來管理AWS的功能。 
+---
+= AWS文件Cloud Volumes Service
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+

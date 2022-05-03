@@ -1,0 +1,27 @@
+---
+sidebar: sidebar 
+permalink: whats-new.html 
+keywords: 'what"s new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes' 
+summary: 瞭Cloud Volumes Service 解AWS的更新功能。 
+---
+= AWS的更新功能Cloud Volumes Service
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+瞭Cloud Volumes Service 解AWS的更新功能。
+
+
+
+== 2021年9月2日
+
+
+
+=== 無法為Cloud Volumes Service AWS工作環境建立新的功能。
+
+隨之推出 link:https://docs.netapp.com/us-en/cloud-manager-fsx-ontap/concept-fsx-aws.html["Amazon FSX for ONTAP Sf"]、Cloud Volumes Service 您無法再在Cloud Manager中建立AWS工作環境的新功能。不過、如果您先前已將Cloud Volumes Service 適用於AWS工作環境的功能強化至Cloud Manager、則可以繼續建立及管理磁碟區。

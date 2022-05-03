@@ -1,0 +1,67 @@
+---
+settings:
+  name: Cloud Volumes Service for AWS
+  platform: cloud
+  internal:
+    pdf_enabled: true
+  prod:
+    pdf_enabled: true
+    harmony_enabled: false
+  langs: zh-tw,us-en,ja-jp,zh-cn,ko-kr
+sidebar:
+  entries:
+  - title: 所有Cloud Manager文件
+    url: https://docs.netapp.com/us-en/cloud-manager-family
+  - title: 適用於AWS文件Cloud Volumes Service
+    url: "/index.html"
+  - title: 版本資訊
+    url: "/whats-new.html"
+  - title: 開始使用
+    entries:
+    - title: 深入瞭 Cloud Volumes Service 解適用於 AWS 的功能
+      url: "/concept-cvs-aws.html"
+  - title: 使用適用於AWS的Cloud Volumes Service
+    entries:
+    - title: 部署及管理雲端磁碟區
+      url: "/task-manage-cvs-aws.html"
+    - title: 管理雲端磁碟區快照
+      url: "/task-manage-cloud-volumes-snapshots.html"
+  - title: 概念
+    entries:
+    - title: 服務層級和已分配容量
+      url: "/reference-cvs-service-levels-and-quotas.html"
+    - title: 適用於 Windows AD 伺服器的 AWS 安全性群組設定
+      url: "/reference-security-groups-windows-ad-servers.html"
+  - title: 知識與支援
+    entries:
+    - title: 註冊以取得支援
+      url: "/task-support-registration.html"
+    - title: 取得協助
+      url: "/task-get-help.html"
+  - title: 法律聲明
+    url: "/legal-notices.html"
+homepage:
+  tiles:
+  - title: 開始使用
+    links:
+    - title: 深入瞭 Cloud Volumes Service 解適用於 AWS 的功能
+      url: concept-cvs-aws.html
+    - title: 新增功能
+      url: whats-new.html
+  - title: 使用適用於AWS的Cloud Volumes Service
+    links:
+    - title: 建立雲端磁碟區
+      url: task-manage-cvs-aws.html#create-cloud-volumes
+    - title: 管理現有磁碟區
+      url: task-manage-cvs-aws.html#managing-existing-volumes
+    - title: 管理雲端磁碟區快照
+      url: task-manage-cloud-volumes-snapshots.html
+  - title: 部落格社群
+    links:
+    - title: NetApp社群
+      url: https://community.netapp.com/t5/Cloud-Data-Services/ct-p/CDS
+    - title: Cloud Central部落格
+      url: https://cloud.netapp.com/blog
+    - title: 雲端網路研討會
+      url: https://cloud.netapp.com/events
+product-family: {}
